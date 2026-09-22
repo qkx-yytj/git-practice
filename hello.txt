@@ -1,4 +1,4 @@
-你好，Git！修改B
+你好，Git！修改A
 master 新加的内容
 这是第二次修改。
 feature 分支加的内容
